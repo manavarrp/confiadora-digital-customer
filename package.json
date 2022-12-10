@@ -1,7 +1,15 @@
 {
   "name": "confiadora-digital-customer",
+  "autor":"Mario Navarro",
+  "description": "Plantilla para crear proyectos escalables en next js",
   "version": "0.1.0",
   "private": true,
+  "license":"MIT",
+  "engines":{
+    "node":">=16.8.1",
+    "yarn":">=1.22.19",
+    "npm":"Por favor usar yarn"
+ },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
